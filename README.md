@@ -1,5 +1,5 @@
 # hello-world
-My first repository...
+My first repository
 
-I used to be a wetland scientist, then I got arthritis in my toes from standing in cold swamp water all day long.  
-Now Im a file clerk.  Someday, Ill be a web developer, if I still got the brainnnzzzzz...
+Testing this out, trying to figure out GitHub.
+Brain hurts already, such a noob.
